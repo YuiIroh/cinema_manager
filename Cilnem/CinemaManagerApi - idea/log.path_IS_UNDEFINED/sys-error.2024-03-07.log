@@ -1,0 +1,56 @@
+09:02:28.594 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - [report,40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9231 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9231 or configure this application to listen on another port.
+
+09:03:13.522 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - [report,40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9230 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9230 or configure this application to listen on another port.
+
+09:04:03.903 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - [report,40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+No bean of type 'org.apache.shiro.realm.Realm' found.
+
+Action:
+
+Please create bean of type 'Realm' or add a shiro.ini in the root classpath (src/main/resources/shiro.ini) or in the META-INF folder (src/main/resources/META-INF/shiro.ini).
+
+09:55:38.011 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - [report,40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9231 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9231 or configure this application to listen on another port.
+
